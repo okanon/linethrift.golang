@@ -8,7 +8,7 @@ Attempt to enable development of LINE by RPC Framework.
 ## Install
 
 ```
-go get -v github.com/okanon/linethrift.golang/
+go get -v github.com/okanon/linethrift.golang/LineThrift
 ```
 
 ## License
